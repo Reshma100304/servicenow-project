@@ -10,5 +10,4 @@ Faster resolution
 Balanced workloads
 Improved customer satisfaction
 
-🎥 Demo
-🔗 Watch Demo
+🎥 Watch Demo
